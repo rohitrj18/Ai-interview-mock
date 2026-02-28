@@ -321,10 +321,7 @@ For issues, questions, or feature requests:
 - User interview history
 - Dashboard functionality
 
-## Authors ✍️
 
-- **Danny** (Om Desale) - Initial development
-- Contributors welcome!
 
 ---
 
